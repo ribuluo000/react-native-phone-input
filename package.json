@@ -1,16 +1,16 @@
 {
-  "_from": "react-native-phone-input",
-  "_id": "react-native-phone-input@0.2.1",
+  "_from": "react-native-phone-input-v",
+  "_id": "react-native-phone-input-v@0.2.3",
   "_inBundle": false,
   "_integrity": "sha1-rGhSoeo32NWP+D3tUtGNe2MD5mc=",
-  "_location": "/react-native-phone-input",
+  "_location": "/react-native-phone-input-v",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "react-native-phone-input",
-    "name": "react-native-phone-input",
-    "escapedName": "react-native-phone-input",
+    "raw": "react-native-phone-input-v",
+    "name": "react-native-phone-input-v",
+    "escapedName": "react-native-phone-input-v",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -20,13 +20,13 @@
     "/"
   ],
   "_shasum": "ac6852a1ea37d8d58ff83ded52d18d7b6303e667",
-  "_spec": "react-native-phone-input",
+  "_spec": "react-native-phone-input-v",
   "author": {
-    "name": "Watcharachai Kanjaikaew",
-    "url": "https://github.com/thegamenicorus"
+    "name": "Nick Wang",
+    "url": "https://github.com/ribuluo000"
   },
   "bugs": {
-    "url": "https://github.com/thegamenicorus/react-native-phone-input/issues"
+    "url": "https://github.com/ribuluo000/react-native-phone-input/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
@@ -36,7 +36,7 @@
   },
   "deprecated": false,
   "description": "Phone input box for React Native",
-  "homepage": "https://github.com/thegamenicorus/react-native-phone-input",
+  "homepage": "https://github.com/ribuluo000/react-native-phone-input",
   "keywords": [
     "react-native",
     "phone",
@@ -52,16 +52,16 @@
   ],
   "license": "MIT",
   "main": "lib/index.js",
-  "name": "react-native-phone-input",
+  "name": "react-native-phone-input-v",
   "peerDependencies": {
     "react-native": ">= 0.25"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/thegamenicorus/react-native-phone-input.git"
+    "url": "git+ssh://git@github.com:ribuluo000/react-native-phone-input.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.2.1"
+  "version": "0.2.3"
 }

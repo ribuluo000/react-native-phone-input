@@ -9,7 +9,7 @@ Phone input box for React Native
 
 ## Installation
 ```
-npm i react-native-phone-input --save
+npm i react-native-phone-input-v --save
 ```
 
 ## Basic Usage
